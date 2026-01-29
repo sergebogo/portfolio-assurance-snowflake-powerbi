@@ -1,0 +1,6 @@
+ID_BENEFICIAIRE,NOM,PRENOM,AGE,LIEN_BENEFICIAIRE,VILLE,PROFIL_RISQUE
+B4719,Martin,Julie,34,Enfant,Paris,Faible
+B5404,Durand,Paul,52,Autre,Lyon,Moyen
+B4979,Leroy,Amine,29,Ami,Marseille,Faible
+B1812,Moreau,Sarah,45,Conjoint,Nantes,Moyen
+B5120,Bernard,Luc,61,Parent,Bordeaux,Élevé

@@ -1,0 +1,101 @@
+ID_Contrat,Type_Contrat,Date_Ouverture,Statut_Contrat,Montant_Assure,ID_Beneficiaire,Lien_Beneficiaire,Pourcentage_Repartition,Etape_Traitement,Date_Debut_Etape,Date_Fin_Etape,SLA_Jours,Blocage,Duree_Blocage_Jours
+C00001,Multirisque,2024-03-15,Ouvert,155715.78,B4719,Enfant,50,Analyse,2024-04-21,2024-05-18,7,Erreur technique,14
+C00002,Invalidité,2024-03-26,Clos,239429.45,B5404,Autre,25,Analyse,2024-06-20,2024-07-14,9,Documents manquants,11
+C00003,Décès,2024-05-20,En cours,67799.17,B4979,Autre,100,Réception dossier,2024-08-25,2024-09-06,19,Documents manquants,3
+C00004,Vie,2022-12-03,En cours,250278.1,B1812,Conjoint,25,Validation,2023-01-23,2023-01-28,23,Documents manquants,5
+C00005,Invalidité,2022-09-30,Clos,426024.2,B5120,Parent,100,Réception dossier,2022-12-05,2022-12-25,30,Documents manquants,8
+C00006,Obsèques,2024-10-06,En cours,318474.25,B2614,Ami,25,Validation,2025-01-12,2025-01-29,17,Aucun,0
+C00007,Multirisque,2022-06-05,Ouvert,102020.76,B5275,Conjoint,33,Paiement,2022-08-12,2022-09-08,24,Litige,12
+C00008,Vie,2024-04-06,Suspendu,75004.19,B7567,Enfant,25,Paiement,2024-05-09,2024-06-07,16,Litige,15
+C00009,Décès,2023-02-10,En cours,218206.39,B3461,Autre,100,Analyse,2023-05-18,2023-05-22,15,Litige,10
+C00010,Invalidité,2023-05-05,En cours,33902.11,B6841,Autre,100,Validation,2023-05-21,2023-06-03,16,Documents manquants,3
+C00011,Invalidité,2022-08-12,Suspendu,395056.56,B8476,Parent,33,Validation,2022-08-31,2022-09-03,21,Litige,10
+C00012,Décès,2022-10-14,Ouvert,302683.65,B7888,Conjoint,50,Validation,2023-01-10,2023-01-19,20,Documents manquants,11
+C00013,Vie,2023-09-06,Suspendu,8394.64,B1669,Ami,100,Analyse,2023-11-20,2023-11-25,21,Documents manquants,2
+C00014,Décès,2022-05-26,Clos,279342.37,B3939,Ami,50,Validation,2022-06-24,2022-07-23,10,Aucun,0
+C00015,Invalidité,2023-11-20,Suspendu,324027.52,B7064,Parent,25,Analyse,2023-12-12,2023-12-20,8,Erreur technique,14
+C00016,Multirisque,2024-06-19,Suspendu,136584.08,B9226,Conjoint,25,Validation,2024-08-11,2024-08-13,7,Erreur technique,9
+C00017,Vie,2024-11-14,En cours,405907.22,B6023,Autre,25,Analyse,2024-12-02,2024-12-13,17,Erreur technique,6
+C00018,Décès,2023-01-03,Suspendu,367153.08,B2699,Ami,33,Paiement,2023-04-05,2023-04-24,18,Documents manquants,2
+C00019,Obsèques,2022-04-22,En cours,26311.98,B4024,Conjoint,33,Paiement,2022-05-09,2022-05-30,27,Documents manquants,7
+C00020,Multirisque,2024-08-31,Ouvert,46064.02,B2338,Enfant,100,Réception dossier,2024-10-19,2024-11-16,12,Aucun,0
+C00021,Décès,2024-01-20,En cours,234653.88,B2382,Autre,33,Réception dossier,2024-02-26,2024-03-23,27,Litige,15
+C00022,Invalidité,2024-02-25,Clos,242039.56,B9889,Enfant,25,Validation,2024-04-24,2024-05-06,13,Documents manquants,1
+C00023,Invalidité,2022-08-15,En cours,92412.43,B4983,Enfant,50,Validation,2022-10-23,2022-10-24,29,Aucun,0
+C00024,Décès,2023-06-25,Suspendu,128846.95,B3329,Conjoint,33,Validation,2023-08-03,2023-08-30,5,Documents manquants,12
+C00025,Obsèques,2022-04-01,En cours,257705.14,B3600,Autre,33,Analyse,2022-05-17,2022-06-10,16,Litige,7
+C00026,Décès,2023-09-28,Ouvert,145757.45,B1664,Parent,33,Analyse,2023-12-07,2023-12-29,25,Aucun,0
+C00027,Décès,2024-03-17,Suspendu,323257.0,B7831,Parent,33,Réception dossier,2024-05-19,2024-06-01,27,Aucun,0
+C00028,Multirisque,2022-11-15,Suspendu,256167.47,B3277,Enfant,33,Paiement,2022-12-12,2022-12-13,15,Aucun,0
+C00029,Invalidité,2024-06-19,Suspendu,96791.03,B8189,Ami,50,Réception dossier,2024-07-08,2024-07-20,28,Erreur technique,1
+C00030,Décès,2022-01-02,Ouvert,431739.02,B2130,Parent,33,Paiement,2022-03-20,2022-04-14,18,Erreur technique,2
+C00031,Obsèques,2024-11-01,Clos,419599.08,B9188,Conjoint,25,Validation,2024-12-14,2025-01-02,6,Documents manquants,13
+C00032,Invalidité,2024-11-28,Suspendu,223465.74,B3779,Ami,100,Paiement,2024-12-18,2025-01-11,17,Documents manquants,4
+C00033,Obsèques,2022-03-02,En cours,312740.49,B5472,Autre,100,Réception dossier,2022-05-09,2022-05-12,23,Aucun,0
+C00034,Décès,2023-12-02,Suspendu,23974.5,B3121,Ami,100,Paiement,2023-12-12,2023-12-29,18,Aucun,0
+C00035,Obsèques,2022-01-08,Suspendu,175957.61,B5284,Enfant,50,Réception dossier,2022-02-11,2022-02-14,27,Erreur technique,15
+C00036,Vie,2023-07-09,Suspendu,39500.23,B8343,Enfant,50,Analyse,2023-07-30,2023-08-29,10,Erreur technique,6
+C00037,Vie,2024-02-25,Clos,262369.9,B8221,Autre,50,Analyse,2024-04-08,2024-05-06,18,Aucun,0
+C00038,Obsèques,2023-06-25,Suspendu,347964.73,B7421,Conjoint,33,Paiement,2023-09-09,2023-09-26,10,Aucun,0
+C00039,Multirisque,2023-06-21,En cours,460420.83,B5710,Ami,33,Validation,2023-09-25,2023-10-08,25,Aucun,0
+C00040,Invalidité,2022-06-27,Ouvert,212908.58,B2377,Enfant,100,Réception dossier,2022-08-27,2022-09-11,16,Erreur technique,8
+C00041,Vie,2024-03-01,En cours,375380.77,B4207,Autre,100,Paiement,2024-06-09,2024-06-22,22,Documents manquants,15
+C00042,Multirisque,2024-10-24,En cours,419814.72,B9428,Enfant,100,Analyse,2024-12-16,2024-12-18,30,Aucun,0
+C00043,Invalidité,2023-07-27,Clos,13542.04,B9397,Enfant,100,Analyse,2023-08-30,2023-09-15,30,Litige,1
+C00044,Multirisque,2022-11-03,Suspendu,101438.3,B6112,Conjoint,25,Réception dossier,2023-01-24,2023-02-20,9,Litige,8
+C00045,Vie,2024-12-01,Suspendu,139540.2,B4369,Autre,33,Analyse,2025-02-04,2025-02-26,18,Litige,11
+C00046,Invalidité,2022-07-18,Ouvert,190928.43,B2116,Parent,25,Réception dossier,2022-09-03,2022-09-10,24,Erreur technique,5
+C00047,Obsèques,2022-06-03,Clos,378355.59,B6257,Parent,50,Validation,2022-08-20,2022-09-06,6,Erreur technique,7
+C00048,Multirisque,2023-08-21,Ouvert,351081.22,B1187,Enfant,25,Analyse,2023-10-21,2023-11-02,30,Erreur technique,5
+C00049,Obsèques,2024-04-19,Suspendu,152490.25,B2982,Conjoint,33,Réception dossier,2024-06-16,2024-07-11,28,Documents manquants,3
+C00050,Décès,2023-09-11,Suspendu,93193.85,B1587,Parent,33,Validation,2023-11-21,2023-12-07,22,Erreur technique,13
+C00051,Invalidité,2023-12-08,Suspendu,70950.87,B2027,Ami,25,Paiement,2024-01-16,2024-01-22,19,Aucun,0
+C00052,Obsèques,2022-08-05,Ouvert,51083.24,B6167,Ami,33,Analyse,2022-08-18,2022-09-06,10,Litige,14
+C00053,Vie,2024-12-26,Suspendu,438824.58,B4668,Ami,25,Validation,2025-01-20,2025-02-18,13,Erreur technique,15
+C00054,Décès,2022-12-16,En cours,329178.17,B8856,Ami,33,Analyse,2023-02-25,2023-03-04,11,Documents manquants,4
+C00055,Invalidité,2022-04-08,Clos,12742.88,B7236,Enfant,100,Paiement,2022-05-24,2022-05-28,28,Erreur technique,2
+C00056,Obsèques,2022-07-13,Ouvert,336131.8,B4776,Conjoint,50,Paiement,2022-10-08,2022-10-13,14,Erreur technique,13
+C00057,Décès,2022-11-02,Clos,280445.31,B6050,Ami,25,Réception dossier,2023-01-29,2023-02-25,22,Documents manquants,6
+C00058,Multirisque,2023-03-06,En cours,454404.33,B9681,Enfant,33,Validation,2023-04-22,2023-04-25,5,Aucun,0
+C00059,Obsèques,2024-11-29,Suspendu,312457.04,B3909,Ami,25,Analyse,2025-02-11,2025-02-28,20,Aucun,0
+C00060,Invalidité,2024-09-08,En cours,164214.19,B1115,Enfant,33,Réception dossier,2024-10-11,2024-10-28,29,Erreur technique,8
+C00061,Vie,2023-02-24,Ouvert,441978.01,B3206,Parent,50,Analyse,2023-03-17,2023-04-14,26,Aucun,0
+C00062,Vie,2022-05-30,Ouvert,218251.13,B8915,Enfant,25,Validation,2022-07-16,2022-07-29,21,Erreur technique,1
+C00063,Vie,2024-12-31,Clos,109446.87,B6176,Conjoint,33,Paiement,2025-03-07,2025-03-25,17,Aucun,0
+C00064,Multirisque,2022-08-02,Suspendu,351305.48,B3752,Autre,33,Paiement,2022-08-14,2022-08-20,5,Documents manquants,15
+C00065,Décès,2024-04-11,Suspendu,328237.42,B8273,Conjoint,25,Paiement,2024-07-09,2024-07-16,17,Erreur technique,3
+C00066,Décès,2023-09-16,En cours,118110.25,B9933,Autre,25,Analyse,2023-12-12,2023-12-18,20,Aucun,0
+C00067,Décès,2023-11-02,Ouvert,236310.1,B8694,Enfant,33,Validation,2024-01-10,2024-02-08,28,Erreur technique,14
+C00068,Vie,2023-07-15,Suspendu,64925.02,B3176,Autre,33,Validation,2023-10-12,2023-11-08,6,Litige,13
+C00069,Multirisque,2023-07-04,Clos,465089.38,B5027,Conjoint,33,Analyse,2023-08-26,2023-08-27,20,Aucun,0
+C00070,Invalidité,2024-04-16,Clos,346031.36,B2436,Conjoint,50,Validation,2024-07-25,2024-08-06,12,Documents manquants,2
+C00071,Multirisque,2024-01-05,Ouvert,443851.08,B9316,Conjoint,25,Paiement,2024-03-20,2024-03-21,14,Aucun,0
+C00072,Vie,2022-05-21,Clos,375366.36,B6038,Autre,100,Analyse,2022-07-22,2022-08-18,15,Aucun,0
+C00073,Vie,2022-04-18,Suspendu,450208.61,B6663,Ami,33,Validation,2022-05-22,2022-06-14,17,Documents manquants,13
+C00074,Multirisque,2022-06-08,Clos,317744.89,B6374,Ami,33,Paiement,2022-07-26,2022-07-30,15,Documents manquants,14
+C00075,Invalidité,2024-10-25,En cours,16326.56,B6067,Conjoint,100,Réception dossier,2024-10-31,2024-11-08,29,Erreur technique,14
+C00076,Invalidité,2022-01-30,Ouvert,17186.71,B5082,Autre,33,Validation,2022-03-21,2022-04-17,23,Erreur technique,9
+C00077,Invalidité,2024-09-07,Ouvert,387720.77,B8007,Ami,50,Analyse,2024-10-11,2024-11-02,6,Litige,7
+C00078,Décès,2022-01-27,Clos,257971.7,B9234,Enfant,50,Analyse,2022-03-14,2022-03-17,19,Litige,8
+C00079,Vie,2022-01-13,Suspendu,12662.69,B6805,Autre,50,Paiement,2022-02-14,2022-03-12,29,Aucun,0
+C00080,Invalidité,2024-05-07,Ouvert,371585.27,B5189,Parent,100,Validation,2024-08-02,2024-08-17,28,Erreur technique,7
+C00081,Invalidité,2024-01-18,En cours,417201.68,B3400,Enfant,25,Validation,2024-03-03,2024-03-06,23,Erreur technique,4
+C00082,Obsèques,2022-09-11,Suspendu,325870.13,B4157,Ami,25,Paiement,2022-09-29,2022-10-25,20,Documents manquants,11
+C00083,Invalidité,2023-08-03,Ouvert,168892.53,B5599,Conjoint,33,Analyse,2023-09-28,2023-10-01,6,Litige,6
+C00084,Vie,2024-01-04,Clos,344659.57,B2766,Ami,50,Paiement,2024-02-16,2024-02-17,13,Aucun,0
+C00085,Décès,2022-06-09,Clos,414884.85,B4884,Enfant,100,Validation,2022-08-29,2022-09-27,13,Erreur technique,10
+C00086,Multirisque,2022-11-20,Ouvert,182720.62,B6502,Ami,33,Validation,2022-12-25,2023-01-07,24,Litige,14
+C00087,Obsèques,2023-02-08,Clos,24671.04,B8377,Enfant,100,Analyse,2023-02-27,2023-03-03,25,Erreur technique,13
+C00088,Vie,2022-01-12,En cours,330996.88,B3981,Autre,100,Analyse,2022-02-26,2022-03-04,23,Litige,7
+C00089,Décès,2024-05-26,En cours,156083.76,B4262,Enfant,50,Réception dossier,2024-05-26,2024-06-21,19,Documents manquants,4
+C00090,Multirisque,2022-09-07,Clos,222271.04,B9463,Autre,50,Analyse,2022-12-01,2022-12-22,27,Aucun,0
+C00091,Multirisque,2024-08-01,Clos,488976.46,B2649,Parent,33,Réception dossier,2024-10-26,2024-11-24,24,Aucun,0
+C00092,Décès,2024-05-13,Clos,18174.19,B9457,Parent,50,Paiement,2024-07-21,2024-07-23,19,Documents manquants,2
+C00093,Décès,2024-12-19,Clos,135572.33,B4093,Enfant,100,Analyse,2025-02-09,2025-03-09,9,Documents manquants,9
+C00094,Vie,2024-03-12,Suspendu,463559.04,B7938,Parent,50,Réception dossier,2024-05-06,2024-05-12,13,Aucun,0
+C00095,Multirisque,2023-10-01,Suspendu,444643.73,B7082,Parent,33,Validation,2023-11-19,2023-12-05,10,Documents manquants,12
+C00096,Décès,2022-06-22,En cours,42388.3,B1908,Autre,50,Validation,2022-08-08,2022-08-12,12,Erreur technique,15
+C00097,Invalidité,2024-04-02,En cours,343747.22,B5378,Autre,100,Validation,2024-04-12,2024-05-10,5,Erreur technique,2
+C00098,Décès,2022-07-10,Ouvert,215348.92,B4732,Conjoint,100,Réception dossier,2022-09-26,2022-10-23,19,Erreur technique,7
+C00099,Invalidité,2023-09-01,Clos,153222.7,B1340,Ami,100,Réception dossier,2023-09-01,2023-09-30,12,Aucun,0
+C00100,Décès,2024-08-07,Ouvert,244002.12,B5776,Enfant,100,Paiement,2024-11-02,2024-11-03,8,Litige,3

@@ -1,0 +1,6 @@
+TYPE_CONTRAT,DESCRIPTION,RISQUE_ASSOCIE,DUREE_MOYENNE_TRAITEMENT,PRODUIT
+Multirisque,Contrat couvrant plusieurs risques,Moyen,20,Pack Multirisque Habitation
+Invalidité,Couverture en cas d'invalidité,Élevé,15,Protection Invalidité Plus
+Décès,Contrat de couverture décès,Élevé,10,Garantie Famille
+Vie,Contrat d'assurance vie,Faible,30,Assurance Vie Premium
+Obsèques,Contrat de prévoyance obsèques,Moyen,12,Prévoir Obsèques Sérénité
